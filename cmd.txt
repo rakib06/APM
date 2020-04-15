@@ -1,0 +1,11 @@
+1. to install bootstrap
+npm install bootstrap font-awesome
+-- warning for jquery and popper.js
+    npm WARN karma-jasmine-html-reporter@1.5.3 requires a peer of jasmine-core@>=3.5 but none is installed. You must install peer dependencies yourself.
+    npm WARN bootstrap@4.4.1 requires a peer of jquery@1.9.1 - 3 but none is installed. You must install peer dependencies yourself.
+    npm npm WARN bootstrap@4.4.1 requires a peer of popper.js@^1.16.0 but none is installed. You must install peer dependencies yourself.
+2. but the stylesheet is not added
+    so we add it manually
+3. bootstrap pawa jacchilo na
+npm install bootstrap jquery --save
+npm install popper.js
